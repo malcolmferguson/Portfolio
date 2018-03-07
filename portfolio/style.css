@@ -126,3 +126,7 @@ footer {
 footer p {
 	font-size: 20px;
 }
+
+.bigbtn {
+  width: 60px;
+}
